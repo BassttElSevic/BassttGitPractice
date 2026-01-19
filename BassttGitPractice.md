@@ -8,3 +8,11 @@ The Basical order:
 **git branch -M main**  // 创建主干
 **git remote add origin https://github.com/BassttElSevic/BassttGitPractice.git ** //提交到仓库
 **git push -u origin main** //提交
+
+工作区 (Working Directory)
+    ↓ git add
+暂存区 (Staging Area)
+        ↓ git commit
+本地仓库 (Local Repository)
+            ↓ git push
+远程仓库 (Remote Repository - GitHub)
